@@ -11,7 +11,7 @@ window.requestAnimFrame = (function(){
 
 var canvas = document.getElementById("canvas"),
 		ctx = canvas.getContext("2d"),
-    keyword = "HAPPY BIRTHDAY THATHA",
+    keyword = "HAPPY 80th BIRTHDAY THATHA",
 		imageData,
 		density =2,
 		mouse = {},
